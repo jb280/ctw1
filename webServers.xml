@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d4528b2-50a2-47e2-8a4f-d1e76f6ae49b" name="Testing Login" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f14b80dc-5140-4167-8ab6-f1057f4d84f9" name="MAMP Apache" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Documents/Code Colledge/CodeDynamicWebsites/Git-Quote/Quote-Gitmo" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
